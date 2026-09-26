@@ -1,0 +1,8 @@
+{
+  "name": "StudyMate - Personalized AI Academic Guide",
+  "description": "An adaptive AI study companion featuring personalized weakness diagnosis, targeted suggestions, Socratic AI tutoring, doubt resolution, interactive quizzes, and study planning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
